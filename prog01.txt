@@ -1,7 +1,7 @@
 feature 01
-feature 01
-feature 01
-feature 01
+feature 01 fix 01
+feature 01 fix 01
+feature 01 fix 01
 feature 01
 feature 01
 feature 01
